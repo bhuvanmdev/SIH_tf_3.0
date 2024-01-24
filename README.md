@@ -14,7 +14,8 @@ The original code is divided by modules, whereas this implementation is done as 
 
 1. Clone the repository.
 2. Install the required packages using the following command:
-```pip install -r tensorflow >= 3.0```
+
+    ```pip install -r tensorflow >= 3.0```
 
 ## Acknowledgements
 
